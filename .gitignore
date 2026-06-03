@@ -1,0 +1,6 @@
+node_modules/
+.env
+bun.lock
+drizzle/
+dist/
+.DS_Store
